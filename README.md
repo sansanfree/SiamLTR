@@ -1,7 +1,7 @@
 # SiamLTR
 The benchmark results of SiamLTR and SiamLTR++ are provided in first version.
 
-<sub>Model</br>（arch+backbone+xcorr）</sub> | <sub>VOT16</br> (EAO/A/R) </sub> | <sub>VOT18</br> (EAO/A/R) </sub> | <sub>VOT19</br> (EAO/A/R) </sub> | <sub>OTB2015</br> (AUC/Prec.) </sub> | <sub>VOT18-LT</br>(F1)</sub> | <sub>Speed</br> (fps) </sub> | <sub>url</sub> |
+<sub>Model</br> </sub> | <sub>VOT16</br> (EAO/A/R) </sub> | <sub>VOT18</br> (EAO/A/R) </sub> | <sub>VOT19</br> (EAO/A/R) </sub> | <sub>OTB2015</br> (AUC/Prec.) </sub> | <sub>VOT18-LT</br>(F1)</sub> | <sub>Speed</br> (fps) </sub> | <sub>url</sub> |
 |:---------------------------------:|:-:|:------------------------:|:--------------------:|:----------------:|:--------------:|:------------:|:-----------:|
 |      <sub>siamrpn_alex_dwxcorr</sub>     | <sub>0.393/0.618/0.238</sub> | <sub>0.352/0.576/0.290</sub> | <sub>0.260/0.573/0.547</sub>|             -        |         -        | <sub>180</sub> | [link](https://drive.google.com/open?id=1t62x56Jl7baUzPTo0QrC4jJnwvPZm-2m) |
 |    <sub>siamrpn_alex_dwxcorr_otb</sub>   |              -               |             -                | - |<sub>0.666/0.876</sub> |         -        | <sub>180</sub> | [link](https://drive.google.com/open?id=1gCpmR85Qno3C-naR3SLqRNpVfU7VJ2W0) |
