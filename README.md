@@ -1,4 +1,4 @@
-# SiamLTR on 9 benchmark results 
+# SiamLTR and SiamLTR++ on 10 benchmark results 
 The benchmark results of SiamLTR and SiamLTR++ are provided in first version.
 
 <sub>Model</br> </sub> | <sub>VOT16</br> (EAO/A/R) </sub> | <sub>VOT18</br> (EAO/A/R) </sub> | <sub>VOT19</br> (EAO/A/R) </sub> | <sub>OTB2015</br> (AUC/Prec.) </sub> | <sub>NFS30</br>(AUC/Prec.)</sub> | <sub>UAV123</br> (AUC/Prec.) </sub>| <sub>TC128</br> (AUC/Prec.) </sub>| <sub>LaSOT</br> (AUC/Prec.) </sub>|<sub>TrackingNet</br> (P/N/S) </sub>| <sub>GOT-10K</br> AO/SR_0.5/SR_0.75) </sub>| 
